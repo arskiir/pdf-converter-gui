@@ -2,6 +2,6 @@
 /public/build/
 
 .DS_Store
-neutralinojs\resources\js\bundle.css
-neutralinojs\resources\js\bundle.js
-neutralinojs\resources\js\bundle.js.map
+neutralinojs/resources/js/bundle.css
+neutralinojs/resources/js/bundle.js
+neutralinojs/resources/js/bundle.js.map

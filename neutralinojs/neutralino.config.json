@@ -12,10 +12,10 @@
   "modes": {
     "window": {
       "title": "test",
-      "width": 800,
-      "height": 500,
-      "minWidth": 400,
-      "minHeight": 250,
+      "width": 1024,
+      "height": 768,
+      "minWidth": 1024,
+      "minHeight": 768,
       "fullScreen": false,
       "alwaysOnTop": false,
       "icon": "/resources/icons/appIcon.png",
